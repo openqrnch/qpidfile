@@ -1,7 +1,8 @@
 [package]
 name = "qpidfile"
-version = "0.9.1"
+version = "0.9.2"
 authors = ["Jan Danielsson <jan.danielsson@qrnch.com>"]
+description = "A minimal library for managing a process' pidfile."
 edition = "2018"
 license = "0BSD"
 keywords = [ "pidfile" ]
